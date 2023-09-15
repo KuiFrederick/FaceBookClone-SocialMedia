@@ -1,0 +1,19 @@
+ .sidebarRow{ 
+     width: 300px;
+     display:flex;
+     align-items: center;
+     padding: 10px;
+     cursor: pointer;
+ }
+ .sidebarRow:hover{
+     background-color: rgb(241, 240, 240);
+     border-radius:10px;
+ }
+
+ .sidebarRow > h4{
+     margin-left: 20px;
+     font-size: 18px;
+     font-weight: 600;
+ }
+
+ 

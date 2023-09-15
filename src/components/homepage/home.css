@@ -1,0 +1,9 @@
+.Home{
+    background-color: #f1f2f5;
+    min-height: 100vh;
+    padding-bottom: 100px;
+}
+.HomeBody{
+    display: flex;
+
+}
